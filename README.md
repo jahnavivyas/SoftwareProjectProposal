@@ -2,7 +2,7 @@
 
 Jahnavi Vyas
 
-##Title: College Buy/Sell
+## Title: College Buy/Sell
 
 What and why? I would like to build a web application for students at universities who are trying to buy and sell school-related items to each other, including textbooks, supplies, dorm furnishing, and clothes. This is important as many students currently rely on Facebook pages which are open to the public, which compromise their safety when interacting with group members.
 
